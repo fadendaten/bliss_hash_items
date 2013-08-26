@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{This library will convert a receipt's line items
                           to a Ruby hash to enable fast calculations.}
   spec.summary       = %q{Represent line items as Ruby hash.}
-  spec.homepage      = "www.fadendaten.ch"
+  spec.homepage      = "http://www.fadendaten.ch"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
